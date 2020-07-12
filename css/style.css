@@ -1,0 +1,86 @@
+* {
+    color: black;
+    font-family: monospace;
+}
+nav a{
+    color:white;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.foto-perfil {
+    height:100%;
+    width:auto;
+    max-width: 100%;
+    border-radius:50%;
+}
+.fab {
+    text-decoration:none;
+}
+.fab:hover {
+    color: orange;
+}
+
+.cor-primaria{
+    background-color: navy;
+}
+
+.cor-secundaria{
+    background-color: gray;
+}
+
+
+.titulosgray{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom:20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: gray;
+}
+
+.titulosazul{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom:20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: navy;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+section p a:hover {
+    color:orange;
+}
+
+section a {
+    color:black;
+    padding-left: 5px;
+}
+
+section a:hover {
+    color:orange;
+}
+
+footer {
+    padding-bottom:5%;
+}
+footer p {
+    padding-top:5%;
+}
+
+footer a:hover {
+    color: orange;
+}
+
+nav a:hover{
+    color: orange;
+}
+
+.nav-link:hover{
+    color:orange;
+}
