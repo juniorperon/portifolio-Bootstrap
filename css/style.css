@@ -66,9 +66,6 @@ section a:hover {
     color:orange;
 }
 
-footer {
-    padding-bottom:5%;
-}
 footer p {
     padding-top:5%;
 }
@@ -83,4 +80,8 @@ nav a:hover{
 
 .nav-link:hover{
     color:orange;
+}
+
+#Projetos {
+    padding-bottom: 0 !important;
 }
