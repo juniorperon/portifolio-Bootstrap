@@ -1,9 +1,9 @@
 * {
-    color: black;
+    color: #C9CEBD;
     font-family: monospace;
 }
 nav a{
-    color:white;
+    color:#F6FFF8;
 }
 html {
     scroll-behavior: smooth;
@@ -23,11 +23,11 @@ html {
 }
 
 .cor-primaria{
-    background-color: navy;
+    background-color: #0D0628;
 }
 
 .cor-secundaria{
-    background-color: gray;
+    background-color: #67697C;
 }
 
 
@@ -37,7 +37,7 @@ html {
     padding-bottom:20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: gray;
+    color: #67697C;
 }
 
 .titulosazul{
@@ -46,7 +46,7 @@ html {
     padding-bottom:20px;
     text-transform: uppercase;
     font-weight: 700;
-    color: navy;
+    color: #0D0628;
 }
 
 .jumbotron {
@@ -58,7 +58,7 @@ section p a:hover {
 }
 
 section a {
-    color:black;
+    color:#C9CEBD;
     padding-left: 5px;
 }
 
