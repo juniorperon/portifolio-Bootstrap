@@ -15,9 +15,7 @@ html {
     max-width: 100%;
     border-radius:50%;
 }
-.fab {
-    text-decoration:none;
-}
+
 .fab:hover {
     color: orange;
 }
@@ -84,4 +82,10 @@ nav a:hover{
 
 #Projetos {
     padding-bottom: 0 !important;
+}
+
+section div a {
+    font-size: 30px;
+    justify-content: space-between;
+    align-items: center;
 }
