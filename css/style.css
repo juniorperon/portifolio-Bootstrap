@@ -16,6 +16,10 @@ html {
     border-radius:50%;
 }
 
+.fa:before {
+    font-family: FontAwesome !important;
+} 
+
 .fab:hover {
     color: orange;
 }
