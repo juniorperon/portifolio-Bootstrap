@@ -10,9 +10,9 @@ html {
 }
 
 .foto-perfil {
-    height:100%;
-    width:auto;
-    max-width: 100%;
+    height:20%;
+    width:20%;
+    max-width: 20%;
     border-radius:50%;
 }
 
